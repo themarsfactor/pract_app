@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+}
+ul{
+	display: flex;
+
+
+}
+ul li{
+	list-style-type: none;
+	margin: 8px;
+}
+
+
+li a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+	
+}
+
+.card.my-auto.baby{
+	display: none;
+}
